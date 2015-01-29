@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">常见布局</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="largeText">我是大的文本</string>
+    <string name="littleText">我是小的说明文本</string>
+    <string name="setting">设置</string>
+    <string name="settingContent">设置语言、情景模式、画面风格等功能</string>
+    <string name="net">移动网络</string>
+    <string name="netCountent">设置是否开启4G网络进行在线上网</string>
+    <string name="changeCall">呼叫转移</string>
+    <string name="changeCallContent">将来电转移至另外一台中端设备</string>
+    <string name="fly">飞行模式</string>
+    <string name="flyContent">在会议期间开启的免打扰模式</string>
+    <string name="function">功能</string>
+    <string name="haha">哈哈</string>
+    <string name="wuwu">呜呜</string>
+    <string name="name1">姓名:</string>
+    <string name="name2">吴新超</string>
+    <string name="name3">性别:</string>
+    <string name="name4">男</string>
+
+</resources>
